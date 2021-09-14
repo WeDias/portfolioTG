@@ -44,7 +44,7 @@ Minhas contribuições neste projeto foram a montagem do hardware, desenvolvimen
 
 ### Aprendizados Efetivos HS
 
-Programação: Sei fazer com autonomia. 
+Programação: Sei fazer com autonomia.  
 Desenho do aplicativo: Sei fazer com autonomia.  
 Controle de versão com Git e Github: Sei fazer com autonomia.  
 Montagem de circuitos com arduino: Sei fazer com autonomia.  
