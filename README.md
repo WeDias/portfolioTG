@@ -1,4 +1,20 @@
-## Projeto 1: 2019-2
+# Sumário
+
+* [Sobre o autor](#introdução)
+* [Primeiro Semestre - Lumen](#em-2019-2)
+* [Segundo Semestre - AlgoPositivo](#em-2020-1)
+* [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
+* [Contato](#contato)
+
+# Wesley Ribiro Dias
+
+## Introdução  
+<div>
+	<img src="/img/me.jpg" alt="Foto de perfil" width=150 height=150 />
+	<p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente Estagiário de Desenvolvimento Fullstack e Análise de Dados na Visiona Tecnologia Espacial S.A.</p>
+</div>
+
+### Em 2019-2
 ![Logo do projeto](/img/capa.png)
 
 ### Parceiro Acadêmico
@@ -15,10 +31,10 @@ O principal diferencial do produto é a facilidade de manuseio com uma interface
 A aplicação foi desenvolvida com a proposta de criar uma automação residencial, controlando uma luz LED RGB a partir de qualquer ponto da sua casa, utilizando uma comunicação Bluetooth, além de ter a opção de controlar um cooler como adicional.  
 Também foi adicionado ao produto uma opção de realizar um feedback através de avaliação por estrelas, numeradas de 1 (não gostei) à 5 (adorei), para que assim possamos verificar possíveis melhorias futuras.
 
-### Link do git
-#### [Projeto Lumen](https://github.com/Denis-Lima/Lumen)
+### Link do Github
+<a href="https://github.com/Denis-Lima/Lumen" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Lumen</span></a>
 
-### Tecnologias adotadas na solução
+#### Tecnologias adotadas na solução
 
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://appinventor.mit.edu/images/logo.png" alt="Logo do MIT AppInventor" width="200" /> [MIT App Inventor](https://appinventor.mit.edu/), uma ferramenta desenvolvida pela Google e atualmente mantida pelo MIT, para confecção do aplicativo, que possui uma interface amigável para pessoas com pouco conhecimento de programação. O App Inventor é uma ferramenta para construção de aplicativos por meio de blocos de programação, tanto na parte lógica quanto na parte visual.  
@@ -38,13 +54,70 @@ As tecnologias adotadas para a solução foram as seguintes:
 	<p align="center"><strong>Arquitetura da aplicação</strong></p>
 </p>
 
-### Contribuições pessoais
 
-Minhas contribuições neste projeto foram a montagem do hardware, desenvolvimento do software, desenho da tela da aplicação e a maquete de apresentação.
+#### Contribuições pessoais
 
-### Aprendizados Efetivos HS
+Escrever ainda...
 
-Programação: Sei fazer com autonomia.  
-Desenho do aplicativo: Sei fazer com autonomia.  
-Controle de versão com Git e Github: Sei fazer com autonomia.  
-Montagem de circuitos com arduino: Sei fazer com autonomia.  
+#### Hard Skills
+
+Escrever ainda...
+
+#### Soft Skills  
+
+Escrever ainda...
+
+### Em 2020-1
+
+### Parceiro Acadêmico
+
+O [SPC Brasil](https://www.spcbrasil.org.br/) está junto com os brasileiros há mais de 60 anos, prestando serviços especializados a toda a sociedade. Oferecem soluções aos consumidores e empresários com o objetivo de facilitar a realização de negócios.  
+Mais do que auxiliar as empresas na concessão de crédito, o SPC Brasil apoia os processos de tomada de decisão com informações, inteligência, soluções de negócio e identidade digital.  
+
+<p align="center">
+	<img src="/img/Previa.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia da solução</strong></p>
+</p>
+
+### Visão do Projeto
+
+Com a mudança do modelo de operação do Cadastro Positivo, surgiu a necessidade de realizar uma gestão da informação mais eficaz para garantir a qualidade, uso adequado e gerar valor através dos dados.  
+A partir desta necessidade, surgiu este projeto, denominado AlgoPositivo (Algoritmo Positivo) que tem o objetivo de analisar os dados pagamentos dos clientes de forma anônima, respeitando a LGPD. A partir destes dados, o programa irá gerar informações e indicadores de negócios, que avaliará os clientes com base nesse perfil de pagamentos traçado. Os indicadores criados poderão ser utilizados para auxiliar a tomada de decisões de oferecer ou não produtos e serviços para determinado público, além de ajudar a analisar a criação de novos produtos com base na região dos clientes.
+
+#### Link do Github
+<a href="https://github.com/Denis-Lima/PI_ADS_2Sem" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>AlgoPositivo</span></a>
+
+#### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://www.python.org/static/img/python-logo.png" alt="Logo do Python" width="200" /> [Python](https://www.python.org/), uma linguagem de programação simples, intuitiva e de fácil aprendizado, escolhida pela equipe para que o foco da solução seja a geração dos indicadores de negócios.  
+
+* <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="Logo do SQLite3" width="200" /> [SQLite3](https://www.sqlite.org/index.html), um banco
+de dados relacional independente, por conta de sua leveza e velocidade, já que o projeto não necessitaria de algo muito mais robusto, uma vez que serviria apenas para guardar os endereços de emails que seriam enviados.  
+* Para o envio de email foi usado a biblioteca embutida no Python chamada smtplib, simples de configurar e utilizar.  
+
+<br/>
+<p align="center">
+	<img src="/img/Arquitetura de aplicação2.png" alt="Arquitetura da aplicação">
+	<p align="center"><strong>Arquitetura da aplicação</strong></p>
+</p>
+
+#### Contribuições pessoais
+
+Escrever ainda...
+
+#### Hard Skills
+
+Escrever ainda...
+
+#### Soft Skills  
+
+Escrever ainda...
+
+## Meus Principais Conhecimentos
+
+Atualmente sei programar em Python, R, JavaScript, Lua, Ruby, Java, C#, C/C++ e Pascal.
+Possuo conhecimentos em POO, Estruturas de Dados, HTML, CSS, Bootstrap, React, Vue, Node, Flask, postgreSQL, SQLite, MySQL, Oracle, Git/Github, AWS, Scrum e metodologias ágeis.
+
+## Contato
+* [LinkedIn](https://www.linkedin.com/in/wedias/)
