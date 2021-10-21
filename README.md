@@ -130,7 +130,7 @@ Para a construção do projeto, minha contribuição foi no desenvolvimento do s
 
 ### Parceiro Acadêmico
 
-A [Visiona Tecnologia Espacial](https://www.visionaespacial.com.br/quem-somos) é a empresa brasileira integradora de sistemas espaciais. Resultante de uma iniciativa única do Governo brasileiro de estimular a criação de uma empresa integradora na indústria espacial, a Visiona é uma joint-venture entre a Telebras, empresa de economia mista do setor de telecomunicações, e a Embraer, empresa privada líder nos setores aeroespacial e de defesa.  
+A [Visiona Tecnologia Espacial](https://www.visionaespacial.com.br/quem-somos) é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras voltada para a integração de sistemas espaciais. Aliando as competências de integração de sistemas da Embraer com o conhecimento acumulado do INPE na integração de satélites, a Visiona tem um papel de liderança no setor, coordenando as ações empresariais da indústria de forma a prover soluções para as necessidades civis e militares brasileiras de satélites. A empresa foi a responsável pelo programa do Satélite Geoestacionário de Defesa e Comunicações Estratégicas, o SGDC, e é líder no mercado brasileiro de sensoriamento remoto orbital. Em 2018, a Visiona Tecnologia Espacial S.A. anunciou o programa do primeiro satélite desenvolvido por uma empresa privada, o VCUB, e concluiu com êxito o desenvolvimento do primeiro Sistema de Controle de Órbita e Atitude de satélites desenvolvido no Brasil. 
 
 <p align="center">
 	<img src="/img/3sem/post2shape.gif" alt="Prévia da solução Postgresql para Shapefile">
