@@ -171,7 +171,8 @@ de dados relacional open source poderoso, robusto e perfomático, super simples 
 
 #### Contribuições pessoais
 
-Escrever ainda...
+Para a construção do projeto, minha contribuição foi no desenvolvimento do backend da aplicação em JAVA, modelagem do banco de dados PostgreSQL 
+e o desenvolvimento dos scripts que realizam o processo de ETL.
 
 #### Hard Skills
 
