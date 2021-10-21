@@ -62,11 +62,17 @@ Escrever ainda...
 
 #### Hard Skills
 
-Escrever ainda...
+* Programação: Sei fazer com autonomia.
+* Desenho do aplicativo: Sei fazer com autonomia.
+* Controle de versão com Git e Github: Sei fazer com autonomia.
+* Montagem de circuitos com arduino: Sei fazer com autonomia.
 
-#### Soft Skills  
+#### Soft Skills
 
-Escrever ainda...
+* Empatia - Para entender o problema que o cliente queria que fosse resolvido, necessário durante toda a construção do projeto.  
+* Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.  
+* Gerenciamento de tempo - Todos os membros tiveram que aprender a gerenciar melhor o tempo próprio para não deixar a equipe na mão.  
+* Autodidatismo - Fundamental para a nossa área, buscando aprender novas ferramentas e linguagens afim de solucionar o problema da melhor forma.
 
 ### Em 2020-1
 
@@ -109,11 +115,17 @@ Escrever ainda...
 
 #### Hard Skills
 
-Escrever ainda...
+* Programação de scripts em python: Sei ensinar.  
+* Controle de versão com git e Github: Sei fazer com autonomia.
+* Análise de dados: Sei fazer com autonomia. 
 
-#### Soft Skills  
+#### Soft Skills
 
-Escrever ainda...
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo e sanar essa necessidade.  
+* Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.  
+* Perseverança - Na época foi um projeto difícil de ser desenvolvido.  
+* Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
+* Autodidatismo - Buscando conhecimento sobre o cadastro positivo para conseguir gerar os indicadores de negócios, além da praticidade com o envio de e-mail.
 
 ### Em 2020-2
 
@@ -164,11 +176,17 @@ Escrever ainda...
 
 #### Hard Skills
 
-Escrever ainda...
+* Programação em Java: Sei fazer com autonomia.  
+* Controle de versão com git e Github: Sei fazer com autonomia.  
+* Utilizar tecnologias WEB (HTML, CSS e JavaScript): Sei fazer com autonomia.  
+* Utilizar banco de dados PostgreSQL: Sei fazer com autonomia.
 
-#### Soft Skills  
+#### Soft Skills
 
-Escrever ainda...
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.  
+* Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
+* Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
+* Autodidatismo - Buscando conhecimento essa nova área de processamento de dados geoespaciais, além de conhecer a extensão PostGIS para a manipulação dos mesmos.
 
 ## Meus Principais Conhecimentos
 
