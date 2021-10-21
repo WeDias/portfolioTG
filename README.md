@@ -123,7 +123,6 @@ Escrever ainda...
 
 * Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo e sanar essa necessidade.  
 * Trabalho em equipe - Fundamental para que o projeto chegue até o cliente dentro do prazo e funcionando.  
-* Perseverança - Na época foi um projeto difícil de ser desenvolvido.  
 * Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
 * Autodidatismo - Buscando conhecimento sobre o cadastro positivo para conseguir gerar os indicadores de negócios, além da praticidade com o envio de e-mail.
 
