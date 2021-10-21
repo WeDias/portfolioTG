@@ -12,7 +12,7 @@
 ## Introdução  
 <div>
 	<img src="/img/me.jpg" alt="Foto de perfil" width=150 height=150 />
-	<p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente Estagiário de Desenvolvimento Fullstack e Análise de Dados na Visiona Tecnologia Espacial S.A.</p>
+	<p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente Desenvolvedor Fullstack e Análise de Dados na Visiona Tecnologia Espacial S.A.</p>
 </div>
 
 ### Em 2019-2
