@@ -111,7 +111,7 @@ de dados relacional independente, por conta de sua leveza e velocidade, já que 
 
 #### Contribuições pessoais
 
-Escrever ainda...
+Para a construção do projeto, minha contribuição foi no desenvolvimento do script em Python para ler os arquivos enviados pelo cliente, tratar, processar e devolver um csv com as estatísticas que serão enviadas posteriormente por e-mail.
 
 #### Hard Skills
 
