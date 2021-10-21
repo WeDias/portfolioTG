@@ -58,7 +58,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 #### Contribuições pessoais
 
-Escrever ainda...
+Minhas contribuições neste projeto foram o desenvolvimento da interface do aplicativo no AppInventor, design dos icones layout e imagens, desenvolvimento do código em C++ para controlar os leds e a ventoinha, montagem e compra dos circuitos, eletrônicos e criação da maquete para demonstrar o funcionamento da aplicação.
 
 #### Hard Skills
 
