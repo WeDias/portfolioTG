@@ -4,6 +4,7 @@
 * [Primeiro Semestre - Lumen](#em-2019-2)
 * [Segundo Semestre - AlgoPositivo](#em-2020-1)
 * [Terceiro Semestre - ShapeTP](#em-2020-2)
+* [Quarto Semestre - Project Sisatas](#em-2021-1)
 * [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
 * [Contato](#contato)
 
@@ -187,6 +188,65 @@ e o desenvolvimento dos scripts que realizam o processo de ETL.
 * Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
 * Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
 * Autodidatismo - Buscando conhecimento essa nova área de processamento de dados geoespaciais, além de conhecer a extensão PostGIS para a manipulação dos mesmos.
+
+### Em 2021-1
+
+### Parceiro Acadêmico
+
+A [IACIT](https://www.iacit.com.br/) é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
+A empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
+Certificada como Empresa Estratégica de Defesa (EED), a IACIT deposita seu conhecimento técnico e o desenvolvimento tecnológico em produtos e sistemas de alta tecnologia, no mais puro estado da arte.
+
+<p align="center">
+	<img src="/img/4sem/Aplicacao.gif" alt="Prévia da solução">
+	<p align="center"><strong>Prévia da solução e funcionalidades</strong></p>
+</p>
+
+### Visão do Projeto
+
+O tema do projeto era um CRUD Sistema Web com regra de negócio complexa em ambiente de produção (Deploy), e o desafio consiste em desenvolver um sistema de Gestão de Atas de Reunião visando as funcionalidades de cadastro,
+controle de acesso, logs de execução, geração e monitoramento de ata de reunião e assinatura digital.
+Adicionalmente, relatórios analíticos são pontos interessantes de agregação de valor ao projeto.  
+Com isso foi desenvolvido o Sisatas, um sistema web para gerenciar suas atas de qualquer lugar com acesso a internet, visando a praticidade na hora da criação, adição de membros participantes da Ata, além de contar com funcionalidades como exportação em PDF ou Excel, criação de revisões e comentários, e envio por e-mail.
+
+#### Link do Github
+<a href="https://github.com/Denis-Lima/ProjectSisatas" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Project Sisatas</span></a>
+
+#### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://s2.glbimg.com/5Iz4ZzSACXeBMQACRQmPliuTERw=/696x390/top/smart/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg" alt="Logo do Java" width="200" /> [Java](https://www.java.com/pt-BR/), uma linguagem de programação orientada a objetos, poderosa e confiável, escolhida pela equipe para que o foco da solução seja na qualidade do resultado final, além de usar todo o poder da orientação a objetos, para melhor definição das regras de negócio da aplicação.  
+
+* <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Logo do Java" width="200" /> [Spring](https://spring.io/) é um framework open source para a plataforma Java. Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência. Faz com que a programação em Java seja mais rápida, fácil e segura, focando na regra de negócio da solução.  
+
+* <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Logo do Maven" width="200" /> [Maven](https://maven.apache.org/) uma ferramenta de gerenciamento e compreensão de projetos de software, para controle de dependências do projeto e fácil réplica do mesmo.  
+
+* <img src="https://i1.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
+de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas.  
+
+* <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---bw3ly0q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/iy5mgq1ptnakllmrk6hp.png" alt="Logo do ReactJS" width="300" height="150" /> Para o frontend, foram escolhido o [ReactJS](https://reactjs.org/), um framework para desenvolvimento de interfaces simples e interativas, baseadas em componentização, aliado com a biblioteca [MaterialUI](https://mui.com/pt/), que conta com diversos componentes estilizados pré-prontos, facilitando o desenvolvimento.  
+
+<br/>
+<p align="center">
+	<img src="/img/4sem/contexto.png" alt="Diagrama de contexto">
+	<p align="center"><strong>Diagrama de contexto</strong></p>
+</p>
+<p align="center">
+	<img src="/img/4sem/implantacao.png" alt="Diagrama de implantação">
+	<p align="center"><strong>Diagrama de contexto</strong></p>
+</p>
+
+#### Contribuições pessoais
+
+**Escrever ainda...**
+
+#### Hard Skills
+
+**Escrever ainda...**
+
+#### Soft Skills  
+
+**Escrever ainda...**
 
 ## Meus Principais Conhecimentos
 
