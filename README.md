@@ -242,11 +242,16 @@ de dados relacional open source poderoso, robusto e perfomático, super simples 
 
 #### Hard Skills
 
-**Escrever ainda...**
+* Programação em Java: Sei fazer com autonomia.  
+* Controle de versão com git e Github: Sei fazer com autonomia.  
+* Utilizar banco de dados PostgreSQL: Sei fazer com autonomia.  
 
 #### Soft Skills  
 
-**Escrever ainda...**
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.  
+* Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
+* Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
+* Autodidatismo - Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.  
 
 ## Meus Principais Conhecimentos
 
