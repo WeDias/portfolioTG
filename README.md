@@ -238,7 +238,7 @@ de dados relacional open source poderoso, robusto e perfomático, super simples 
 
 #### Contribuições pessoais
 
-**Escrever ainda...**
+Para a construção do projeto, minha contribuição foi no desenvolvimento do backend da aplicação em JAVA responsável por gerar as atas em excel e enviar para o usuário poder baixar e desenvolvimento de alguns controllers para a aplicação.
 
 #### Hard Skills
 
