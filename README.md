@@ -297,7 +297,8 @@ de dados relacional open source poderoso, robusto e perfomático, super simples 
 
 #### Contribuições pessoais
 
-Escrever ainda.  
+Para a construção do projeto, minha contribuição foi no desenvolvimento do backend da aplicação em JavaScript, estruturação da base para a desenvolver
+o projeto tanto backend quanto frontend e criação de todo o banco de dados, tabelas, triggers, funções, incluindo a criptografia dos dados de usuário, estruturação do TypeORM e criação de regras para o eslint.
 
 #### Hard Skills
 
