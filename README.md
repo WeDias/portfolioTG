@@ -5,6 +5,7 @@
 * [Segundo Semestre - AlgoPositivo](#em-2020-1)
 * [Terceiro Semestre - ShapeTP](#em-2020-2)
 * [Quarto Semestre - Project Sisatas](#em-2021-1)
+* [Quinto Semestre - Bureauto/Bureauto Mobile](#em-2021-2)
 * [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
 * [Contato](#contato)
 
@@ -252,6 +253,66 @@ Para a construção do projeto, minha contribuição foi no desenvolvimento do b
 * Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
 * Gerenciamento de tempo - Do início ao fim do projeto, afinal, analisar dados e transformar em informação leva tempo que não pode ser desperdiçado.  
 * Autodidatismo - Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.  
+
+### Em 2021-2
+
+### Parceiro Acadêmico
+
+A [GSW](http://www.gsw.com.br/) é uma empresa especializada em desenvolvimento e implantação de soluções inteligentes em Tecnologia da Informação para gestão empresarial, gestão tributária, operações em comércio exterior e CRM.
+
+Com 25 anos de experiência em projetos globais de TI e mais de 400 colaboradores espalhados por 6 unidades, a GSW oferece portfólio abrangente, construído através de sólidas alianças com empresas de soluções globais em TI, como Thomson Reuters, SAP, Microsoft, IBM, Oracle e Salesforce.
+
+A GSW tem maturidade para atender praticamente todas as demandas de seus clientes, desde desenvolvimento de software, implantação de ERP e sistemas satélites, até alocação de profissionais técnicos e funcionais.
+
+<p align="center">
+	<img src="/img/5sem/previa.gif" alt="Prévia da solução web">
+	<p align="center"><strong>Prévia da solução web</strong></p>
+</p>
+<p align="center">
+	<img src="/img/5sem/previa-m.gif" alt="Prévia da solução mobile">
+	<p align="center"><strong>Prévia da solução mobile</strong></p>
+</p>
+
+### Visão do Projeto
+
+O tema do projeto desse segundo semestre de 2021 foi um sistema back e front com grandes volumes de dados, com front mobile. O desafio era criar um portal de vendas de veículos, no qual há métricas tanto para o administrador quanto para o anunciante, além de ter um chat em tempo real e a segurança dos dados na plataforma.
+
+#### Link do Github
+<a href="https://github.com/BureauTech/BureAuto" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Bureauto</span></a>
+<a href="https://github.com/BureauTech/BureAutoMobile" target="_blank"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Bureauto Mobile</span></a>
+
+#### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://nodejs.org/static/images/logos/nodejs.png" alt="Logo do Java" width="200" /> [Node JS](https://nodejs.org/en/), uma ferramenta para execução de código Javascript fora do navegador, para construção do servidor da aplicação.  
+
+* <img src="https://vuejs.org/images/logo.svg" alt="Logo do Java" width="200" height="100" /> [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.  
+
+* <img src="https://i1.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
+de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas.  
+
+* <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="Logo do ReactJS" width="200" height="150" /> Para o frontend, aliado ao Vue JS, foi escolhido a biblioteca [Vuetify](https://vuetifyjs.com/en/), que conta com diversos componentes estilizados e responsivos pré-prontos, facilitando o desenvolvimento.  
+
+* <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="Logo do ReactJS" width="100" height="150" /> Para o mobile foi escolhido o framework [React Native](https://reactnative.dev/), que conta com código Javascript para desenvolvimento Nativo de apps mobile, que serve igualmente para Android e iOS.  
+
+#### Contribuições pessoais
+
+Escrever ainda.  
+
+#### Hard Skills
+
+* Programação com Node: Sei fazer com autonomia.  
+* Programação com Vue: Sei fazer com autonomia.   
+* Utilizar banco de dados PostgreSQL: Sei fazer com autonomia.   
+
+#### Soft Skills  
+
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.  
+* Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
+* Gerenciamento de tempo - Do início ao fim do projeto, pois havia muita coisa para ser desenvolvida, além de ser um caminho obscuro o desenvolvimento mobile, já que a equipe nunca havia feito antes.  
+* Autodidatismo - Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.  
+* Autocontrole e paciência - Por ser tratar de um projeto com complexidade média em  regra de negócio, mas com muitas partes a serem desenvolvidas foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.  
+
 
 ## Meus Principais Conhecimentos
 
