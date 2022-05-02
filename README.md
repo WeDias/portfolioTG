@@ -375,7 +375,6 @@ Minha contribuição no projeto foi a estruturação de toda a base, organizaç�
 * Gerenciamento de tempo - Do início ao fim do projeto, pois foi um projeto bem complicado no início, uma vez que foi complicado entender o que devíamos olhar e procurar.  
 * Autodidatismo - Buscando aprender novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.  
 * Autocontrole e paciência - Por ser tratar de um projeto com complexidade média/alta em entendimento e resolução do problema, foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.  
-## Meus Principais Conhecimentos
 
 ## Meus Principais Conhecimentos
 
