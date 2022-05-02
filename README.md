@@ -6,6 +6,7 @@
 * [Terceiro Semestre - ShapeTP](#em-2020-2)
 * [Quarto Semestre - Project Sisatas](#em-2021-1)
 * [Quinto Semestre - Bureauto/Bureauto Mobile](#em-2021-2)
+* [Sexto Semestre - BTAlert](#em-2022-1)
 * [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
 * [Contato](#contato)
 
@@ -14,7 +15,7 @@
 ## Introdução  
 <div>
 	<img src="/img/me.jpg" alt="Foto de perfil" width=150 height=150 />
-	<p>Estudante do 5º período de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, atualmente Desenvolvedor Fullstack e Análise de Dados na Visiona Tecnologia Espacial S.A.</p>
+	<p>Estudante do 6º período de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente Engenheiro de Software no isaac, uma fintech em São Paulo.</p>
 </div>
 
 ### Em 2019-2
@@ -314,10 +315,71 @@ o projeto tanto backend quanto frontend e criação de todo o banco de dados, ta
 * Autodidatismo - Buscando novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.  
 * Autocontrole e paciência - Por ser tratar de um projeto com complexidade média em  regra de negócio, mas com muitas partes a serem desenvolvidas foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.  
 
+### Em 2022-1
+
+### Parceiro Acadêmico
+
+O [Grupo UOL](https://www.uol.com.br/) é uma empresa brasileira de conteúdo, tecnologia, serviços e meios de pagamentos. Ela está no mercado desde 1996 e sua homepage recebe mais de 114 milhões de visitantes únicos por mês.
+
+<p align="center">
+	<img src="/img/6sem/metricas.jpg" alt="Prévia de algumas métricas coletadas e monitoradas">
+	<p align="center"><strong>Prévia de algumas métricas coletadas e monitoradas</strong></p>
+</p>
+
+### Visão do Projeto
+
+O tema do projeto desse primeiro semestre de 2022 foi um sistema de previsão de quebra de sistema web. O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições atuais do sistema.
+
+#### Link do Github
+<div><a href="https://github.com/BureauTech/Artefatos" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Repositório principal</span></a></div>
+<div><a href="https://github.com/BureauTech/APIs-Docs" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Documentação API-REST</span></a></div>
+<div><a href="https://github.com/BureauTech/Cadastrol-Client" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Frontend da aplicação teste</span></a></div>
+<div><a href="https://github.com/BureauTech/Cadastrol-Server" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Backend da aplicação teste</span></a></div>
+<div><a href="https://github.com/BureauTech/BTAlert-AI" target="_blank" style="display: block;"><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="Logo do Github" width="40" style="margin: 0px 15px 0px 0px;" /><span>&nbsp;&nbsp;&nbsp;</span><span>Sistema de previsão de Machine Learning</span></a></div>
+
+#### Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:  
+* <img src="https://s2.glbimg.com/5Iz4ZzSACXeBMQACRQmPliuTERw=/696x390/top/smart/s2.glbimg.com/vME2Bq4OSpm6f6IE16BhcVLR98U=/695x0/s.glbimg.com/po/tt2/f/original/2014/11/14/java-logo.jpg" alt="Logo do Java" width="200" /> [Java](https://www.java.com/pt-BR/), uma linguagem de programação orientada a objetos, poderosa e confiável, escolhida pela equipe para que possa aguentar bem os testes de carga.  
+
+* <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Logo do Java" width="200" /> [Spring](https://spring.io/) é um framework open source para a plataforma Java. Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência. Faz com que a programação em Java seja mais rápida, fácil e segura, focando na implementação da solução.  
+
+* <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" alt="Logo do Maven" width="200" /> [Maven](https://maven.apache.org/) uma ferramenta de gerenciamento e compreensão de projetos de software, para controle de dependências do projeto e fácil réplica do mesmo.  
+
+* <img src="https://i1.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
+de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas.  
+
+* <img src="https://w7.pngwing.com/pngs/595/279/png-transparent-vue-js-javascript-library-angularjs-react-vue-js-template-angle-text.png" alt="Logo do VueJS" width="115" height="100" /> [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.  
+
+* <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="Logo do ReactJS" width="200" height="150" /> Para o frontend, aliado ao Vue JS, foi escolhido a biblioteca [Vuetify](https://vuetifyjs.com/en/), que conta com diversos componentes estilizados e responsivos pré-prontos, facilitando o desenvolvimento.  
+
+* <img src="https://www.python.org/static/img/python-logo.png" alt="Logo do Python" width="200" /> [Python](https://www.python.org/), uma linguagem de programação simples, intuitiva e de fácil aprendizado, além de ser poderosa para Machine Learning.  
+
+#### Contribuições pessoais
+
+Minha contribuição no projeto foi a estruturação de toda a base, organização e configuração dos repositórios da solução, criação dos Dockerfiles, configuração de CI/CD, desenvolvimento do servidor da aplicação de teste em Java, estruturação do banco de dados e auxiliar outros desenvolvedores.  
+
+#### Hard Skills
+
+* Programação web com Vue JS: Sei fazer com autonomia.  
+* Utilizar biblioteca Vuetify: Sei fazer com autonomia.  
+* Programação web com Java: Sei fazer com autonomia.  
+* Programação Machine Learning com Python: Sei fazer com ajuda.  
+* Utilizar banco de dados PostgreSQL: Sei fazer com autonomia.  
+* Utilização de Docker: Sei fazer com autonomia.
+
+#### Soft Skills  
+
+* Empatia - Para entender a necessidade do cliente e construir uma aplicação que possa ajudá-lo a resolver o problema.  
+* Trabalho em equipe - Para divisão de tarefas para realizar as entregas no prazo.  
+* Gerenciamento de tempo - Do início ao fim do projeto, pois foi um projeto bem complicado no início, uma vez que foi complicado entender o que devíamos olhar e procurar.  
+* Autodidatismo - Buscando aprender novos frameworks e bibliotecas, para melhor gestão do projeto e desenvolvimento simplificado do projeto.  
+* Autocontrole e paciência - Por ser tratar de um projeto com complexidade média/alta em entendimento e resolução do problema, foi necessário ter um bom autocontrole e ser calmo para que a conclusão do mesmo pudesse ser feita da melhor forma possível.  
+## Meus Principais Conhecimentos
 
 ## Meus Principais Conhecimentos
 
-Atualmente sei programar em Python, R, JavaScript, Lua, Ruby, Java, C#, C/C++ e Pascal.
+Atualmente sei programar em Python, Go, R, JavaScript, Lua, Ruby, Java, C#, C/C++ e Pascal.
 Possuo conhecimentos em POO, Estruturas de Dados, HTML, CSS, Bootstrap, React, Vue, Node, Flask, postgreSQL, SQLite, MySQL, Oracle, Git/Github, AWS, Scrum e metodologias ágeis.
 
 ## Contato
