@@ -159,11 +159,9 @@ As tecnologias adotadas para a solução foram as seguintes:
 
 * <img src="https://repository-images.githubusercontent.com/184428875/67e25300-6c06-11e9-9570-44fa547e425a" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
 de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas. Aliado ao PostgreSQL, temos também a extensão [PostGIS](https://postgis.net/), utilizada para manipulação e armazenamento de dados geoespaciais.  
-* 
-<p align="left">
-	<img src="https://image.flaticon.com/icons/png/512/29/29540.png" alt="Logo do JSP" width="200" height="150" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLyS4H0iLtlxoej41uIdXkQ6e563aIIxucFZQqpa5uumVUOOsp-bZexe7t_g0tMpD00gw&usqp=CAU" alt="Logo do JSP" width="300" height="150" />
- Java Server Pages, em conjunto com HTML5, CSS3 e JavaScript, para a construção da parte WEB da solução, visando a facilidade no manuseio da ferramenta ETL e disponibilidade para toda a equipe.   
+* <p align="left">
+	<img src="https://raw.githubusercontent.com/WeDias/portfolioTG/main/img/3sem/jsp-logo.png" alt="Logo do JSP" width="200" height="100" />
+	 Java Server Pages, em conjunto com HTML5, CSS3 e JavaScript, para a construção da parte WEB da solução, visando a facilidade no manuseio da ferramenta ETL e disponibilidade para toda a equipe.   
 </p>
 
 <br/>
