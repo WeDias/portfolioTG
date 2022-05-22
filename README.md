@@ -285,7 +285,7 @@ O tema do projeto desse segundo semestre de 2021 foi um sistema back e front com
 As tecnologias adotadas para a solução foram as seguintes:  
 * <img src="https://nodejs.org/static/images/logos/nodejs.png" alt="Logo do Java" width="200" /> [Node JS](https://nodejs.org/en/), uma ferramenta para execução de código Javascript fora do navegador, para construção do servidor da aplicação.  
 
-* <img src="https://vuejs.org/images/logo.svg" alt="Logo do Java" width="200" height="100" /> [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.  
+* <img src="https://raw.githubusercontent.com/WeDias/portfolioTG/main/img/vue.jpeg" alt="Logo do Java" width="115" height="100" /> [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.  
 
 * <img src="https://i1.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
 de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas.  
@@ -347,7 +347,7 @@ As tecnologias adotadas para a solução foram as seguintes:
 * <img src="https://i1.wp.com/www.savepoint.blog.br/wp-content/uploads/2015/01/postgresql-logo.png?fit=610%2C280&ssl=1" alt="Logo do PostgreSQL e PostGIS" width="200" /> [PostgreSQL](https://www.postgresql.org/) um banco
 de dados relacional open source poderoso, robusto e perfomático, super simples de utilizar e com muitas ferramentas e extensões poderosas.  
 
-* <img src="https://w7.pngwing.com/pngs/595/279/png-transparent-vue-js-javascript-library-angularjs-react-vue-js-template-angle-text.png" alt="Logo do VueJS" width="115" height="100" /> [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.  
+* <img src="https://raw.githubusercontent.com/WeDias/portfolioTG/main/img/vue.jpeg" alt="Logo do VueJS" width="115" height="100" /> [Vue JS](https://vuejs.org/) é um framework open source para o desenvolvimento de interfaces com foco no SPA (Single Page Application). Muito simples e intuitivo de se utilizar.  
 
 * <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" alt="Logo do ReactJS" width="200" height="150" /> Para o frontend, aliado ao Vue JS, foi escolhido a biblioteca [Vuetify](https://vuetifyjs.com/en/), que conta com diversos componentes estilizados e responsivos pré-prontos, facilitando o desenvolvimento.  
 
