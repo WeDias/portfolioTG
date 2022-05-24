@@ -10,7 +10,7 @@
 * [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
 * [Contato](#contato)
 
-# Wesley Ribiro Dias
+# Wesley Dias
 
 ## Introdução  
 <div>
