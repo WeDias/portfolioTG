@@ -320,8 +320,8 @@ o projeto tanto backend quanto frontend e criação de todo o banco de dados, ta
 O [Grupo UOL](https://www.uol.com.br/) é uma empresa brasileira de conteúdo, tecnologia, serviços e meios de pagamentos. Ela está no mercado desde 1996 e sua homepage recebe mais de 114 milhões de visitantes únicos por mês.
 
 <p align="center">
-	<img src="/img/6sem/metricas.jpg" alt="Prévia de algumas métricas coletadas e monitoradas">
-	<p align="center"><strong>Prévia de algumas métricas coletadas e monitoradas</strong></p>
+	<img src="/img/6sem/previsao.png" alt="Prévia de algumas métricas coletadas e monitoradas">
+	<p align="center"><strong>Gráfico de comparação da saúde do sistema prevista pela IA vs a real</strong></p>
 </p>
 
 ### Visão do Projeto
