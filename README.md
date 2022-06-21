@@ -324,6 +324,9 @@ O [Grupo UOL](https://www.uol.com.br/) é uma empresa brasileira de conteúdo, t
 	<p align="center"><strong>Gráfico de comparação da saúde do sistema prevista pela IA vs a real</strong></p>
 </p>
 
+Para a geração dos dados com a finalidade de treinar o modelo de inteligência artificial, foi utilizado o Locust para gerar um stress no sistema alvo, onde uma máquina rodaria o sistema em questão, e outras máquinas realizariam o stress, atacando a máquina principal. A aplicação alvo é um sistema web de CRUD para usuários, onde temos VueJS no client e uma API em Java com SpringBoot no server.
+O modelo de inteligência artificial utilizado foi uma rede neural com o algoritmo LSTM (Long Short-Time Memory), por conta da sua capacidade de previsão multi-feature ao longo de séries temporais e a capacidade de lembrar do passado (leva em consideração X passos ocorridos para prever o futuro).
+
 ### Visão do Projeto
 
 O tema do projeto desse primeiro semestre de 2022 foi um sistema de previsão de quebra de sistema web. O desafio consiste em criar uma inteligência artificial capaz de prever em quanto tempo um sistema web muito provavelmente irá ficar indisponível dado as condições atuais do sistema.
